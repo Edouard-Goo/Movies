@@ -110,44 +110,7 @@ const Avis = ({ result, setResult }) => {
               {oneMovie.title}
             </option>
           ))}
-          {/* 
-          <option value="En eaux tres troubles">En eaux tres troubles </option>
-          <option value="Elementaire">Elementaire</option>
-          <option value="Indiana Jones et le Cadran de la destinée">
-            Indiana Jones et le Cadran de la destinée
-          </option>
-          <option value="Barbie">Barbie</option>
-          <option value="Agent Stone">Agent Stone</option>
-          <option value="Spider-Man : Across the Spider-Verse">
-            Spider-Man : Across the Spider-Verse
-          </option>
-          <option value="Agent Stone">Agent Stone</option>
-          <option value="Transformers : Rise of the Beasts">
-            Transformers : Rise of the Beasts
-          </option>
-          <option value="The Flash ">The Flash </option>
-          <option value="Fast and Furious">Fast and Furious </option>
-          <option value="Transformers Le challenge">
-            Transformers Le challenge
-          </option>
-          <option value="Jagun Jagun">Jagun Jagun</option>
-          <option value="The flood">The flood</option>
-          <option value="Le Dernier Voyage du Demeter">
-            Le Dernier Voyage du Demeter
-          </option>
-          <option value="Oppenheimer">Oppenheimer</option>
-          <option value="Sound Of Freedom">Sound Of Freedom</option>
-          <option value="La Petite Sirène">La Petite Sirène</option>
-          <option value="Les Gardiens de la Galaxie : Volume 3">
-            Les Gardiens de la Galaxie : Volume 3
-          </option>
-          <option value="Kingdom 2 : En terre lointaine">
-            Kingdom 2 : En terre lointaine
-          </option>
-          <option value="Babylon 5: The Road Home">
-            Babylon 5: The Road Home
-          </option>
-          <option value="À contre-sens">À contre-sens</option> */}
+          
         </select>
         <button
           className="btn frm"
